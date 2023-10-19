@@ -5,8 +5,8 @@
   "main": "Db.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon Server.js",
-    "build": "npm install && any-other-build-commands-here"
+    "start": "nodemon Server.js"
+
     
   },
   "keywords": [],
